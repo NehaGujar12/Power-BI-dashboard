@@ -12,3 +12,4 @@ Year-wise sales trend analysis
  Real-time order metrics (Amount, Quantity, Ratings, Orders)
 
  Interactive filters for Top 5, Top 10, Top 50 city comparisons
+ ![Dashboard Screenshot](./screenshort/dashboard.png)
